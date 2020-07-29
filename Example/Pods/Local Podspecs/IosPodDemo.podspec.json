@@ -1,0 +1,22 @@
+{
+  "name": "IosPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of IosPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shagevan7@gmail.com/IosPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shagevan7@gmail.com": "parameswaran.shagevan@singtel.com"
+  },
+  "source": {
+    "git": "https://github.com/shagevan7@gmail.com/IosPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IosPodDemo/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module IosPodDemo {
+  umbrella header "IosPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

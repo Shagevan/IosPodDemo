@@ -1,0 +1,16 @@
+PODS:
+  - IosPodDemo (0.1.0)
+
+DEPENDENCIES:
+  - IosPodDemo (from `../`)
+
+EXTERNAL SOURCES:
+  IosPodDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IosPodDemo: 0bc0f7514f3da20daf256e1980ca2a19763bf650
+
+PODFILE CHECKSUM: e6f3a15d25a0066e675c5b2198261ec2cae09b16
+
+COCOAPODS: 1.9.3
